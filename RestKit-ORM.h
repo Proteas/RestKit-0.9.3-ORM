@@ -15,8 +15,3 @@
 #import "Utils/RKObjectMappingResult.h"
 #import "Utils/RKObjectMapper.h"
 #import "Utils/RKObjectSerializer.h"
-// Core Data
-#import "Utils/RKManagedObjectCache.h"
-#import "Utils/NSManagedObject+ActiveRecord.h"
-#import "Utils/RKManagedObjectMapping.h"
-#import "Utils/RKManagedObjectStore.h"
