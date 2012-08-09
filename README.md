@@ -2,5 +2,7 @@
 # Usage:
         * Copy dir to your project
         * import RestKit-ORM.h
-# Detail Usage: https://github.com/RestKit/RestKit/wiki/Object-mapping or see samples
-# proteas.wang @AT gmail.com
+# Detail Usage: 
+        * https://github.com/RestKit/RestKit/wiki/Object-mapping
+        * see samples
+* proteas.wang @AT gmail.com
