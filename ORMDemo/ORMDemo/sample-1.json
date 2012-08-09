@@ -1,0 +1,41 @@
+{       "fileId":"1",
+        "version":"1",
+        "title":"名侦探柯南",
+        "attAbstract":"日本漫画家青山。",
+        "publishtime":"2012-06-18 16:15:03",
+        "source":"Proteas",
+        "author":"Proteas",
+        "editor":"Proteas",
+        "subtitle":"Proteas",
+        "introtitle":"Proteas",
+        "content":"hello",
+        "commentCount":2,
+        "images":[{     "ref":"<!--IMAGES#0-->",
+                        "imagearray":[{  "ref":"<!--IMAGEARRAY#0-->",
+                                         "title":"Proteas",
+                                         "fileAbstract":"Proteas",
+                                         "imageUrl":"http://www.baidu.com",
+                                         "picType":1
+                                         },
+                                        {"ref":"<!--IMAGEARRAY#1-->",
+                                         "title":"堆雪人",
+                                         "fileAbstract":"Proteas",
+                                         "imageUrl":"http://www.baidu.com",
+                                         "picType":1
+                                        },
+                                        {"ref":"<!--IMAGEARRAY#2-->",
+                                        "title":"Proteas",
+                                        "fileAbstract":"Proteas",
+                                        "imageUrl":"http://www.baidu.com",
+                                        "picType":1
+                                     }]
+                  }],
+         "videos":[{    "ref":"<!--VIDEOS#0-->",
+                        "videoarray":[{ "ref":"<!--VIDEOARRAY#0-->",
+                                        "title":"柯南",
+                                        "attAbstract":"Proteas",
+                                        "videoUrl":"http://www.baidu.com",
+                                        "imageUrl":"http://www.baidu.com"
+                                     }]
+                  }]
+}
